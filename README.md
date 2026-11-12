@@ -1,6 +1,8 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Mohamed+Atef+Ghalwash" />
+<h1 align="center">
+  <span style="font-family: 'TT Rationalist', sans-serif; color: #58A6FF;">
+    Mohamed Atef Ghalwash
+  </span>
+</h1>
 
 <p><i>لاَ أَبرَحُ حَتَى أَبلُغَ.</i></p>
 
