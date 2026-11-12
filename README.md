@@ -1,108 +1,61 @@
 <div align="center">
 
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Mohamed Atef Ghalwash
-</h1>
-
-<h3>Computer Science & AI Student | Aspiring Front-End Developer</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Mohamed+Atef+Ghalwash" alt="Mohamed Atef Ghalwash" />
 
 <p>
-  Building projects, exploring technologies, and improving every day.
+  <samp>Computer Science & AI Student</samp>
+  <br>
+  <samp>Front-End Development · Cybersecurity</samp>
+</p>
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
 </p>
 
 </div>
 
-<img align="right" alt="Coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-### About Me
-
-Hi, I'm **Mohamed Atef Ghalwash**, a Computer Science and Artificial Intelligence student interested in software development and technology.
-
-- Interested in Front-End Development.
-- Building projects and improving my programming skills.
-- Exploring Cybersecurity and networking.
-- Passionate about learning and sharing knowledge.
-- Always working on becoming a better developer.
-
-<br clear="right"/>
-
 ---
 
-### Connect With Me
+### `01` / About
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+I'm Mohamed, a Computer Science and AI student interested in building useful software, understanding how things work, and continuously improving my development skills.
 
----
+### `02` / Tech Stack
 
-### Languages & Technologies
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,git,github,vscode&theme=dark" />
 
----
+</div>
 
-### A Little More About Me
+### `03` / Current Focus
 
-```javascript
-const mohamed = {
-  name: "Mohamed Atef Ghalwash",
-  role: "Computer Science & AI Student",
-
-  interests: [
-    "Front-End Development",
-    "Software Engineering",
-    "Cybersecurity",
-    "Problem Solving"
-  ],
-
-  languages: [
-    "C++",
-    "Python",
-    "JavaScript"
-  ],
-
-  technologies: {
-    frontend: ["HTML", "CSS", "React.js"],
-    tools: ["Git", "GitHub", "VS Code"]
-  },
-
-  currentlyLearning: [
-    "React.js",
-    "Data Structures",
-    "Cybersecurity"
-  ],
-
-  motto: "Always learning, always improving."
-};
+```text
+→ Front-End Development
+→ React.js
+→ Data Structures & Algorithms
+→ Cybersecurity Fundamentals
 ```
 
----
+### `04` / Selected Projects
 
-### Featured Projects
+| Project | Description |
+|:--|:--|
+| Medicore | Hospital Management System · ERD |
+| Educational Website | Interactive learning experience |
+| Watch Store | Front-End E-commerce Project |
 
-- **Medicore – Hospital Management System**
-  - Database design project with seven interconnected entities.
-
-- **Educational Website**
-  - A web project focused on creating an interactive learning experience.
-
-- **Watch Store Website**
-  - A front-end project for an online watch store.
-
----
-
-### GitHub Statistics
+### `05` / GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
+<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 </div>
 
@@ -110,8 +63,6 @@ const mohamed = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=footer" width="100%">
-
-**Building my skills, one project at a time.**
+<samp>Learning consistently. Building with purpose.</samp>
 
 </div>
